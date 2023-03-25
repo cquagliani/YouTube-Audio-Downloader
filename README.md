@@ -1,6 +1,6 @@
 # YouTube-Audio-Downloader
-This program is designed to extract the audio from each video within a specified YouTube playlist. The audio files are then downloaded to appropriate subfolders on the local hard drive, organized by genre.
+<p>During my years as an undergraduate student at UC Berkeley, I developed a habit of listening to instrumental lofi music to focus for long periods of time. Through my experience, I have discovered that the best copyright-free lofi music is found on YouTube, but I sometimes found the video itself distracting, so I created this program.</p>
 
-During my years of intense studying at UC Berkeley, I developed a habit of listening to instrumental lofi music to focus for long periods of time. Through my experience, I have discovered that the best lofi music is found on YouTube.
+<p>This Python program provides a command-line interface for extracting audio from each video within a specified YouTube playlist and saving them as mp4 files on your local computer. It utilizes the YouTube API to access the video and audio streams.</p>
 
-Without YouTube Premium, a typical user is required to keep the app open while listening. This major inconvenience led to the need for this program. I now create playlists with my favorite focus music and download them to my computer for easier access.
+<p><i><b>Legal Disclaimer:</b> It is only legal to download audio from YouTube videos that do not have copyright or protection. Please research the intellectual property laws in your jurisdiction before using this program.</i></p>
